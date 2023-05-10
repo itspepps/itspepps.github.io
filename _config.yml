@@ -6,10 +6,10 @@
 lang: "en"
 
 # Name of your site (displayed in the header)
-title: "Website for Digital Tools for Studying Religion"
+title: "Progress Log"
 
 # Short bio or description (displayed in the header)
-description: by Leslie Trenkner
+description: "Digital Tools for Studying Religion | SoSe 2023 | by Leslie Trenkner"
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /assets/image/avatar.png
@@ -30,7 +30,7 @@ baseurl: ""
 
 # Navigation menu
 navigation_links:
-  - title: Progress Log
+  - title: Posts
     url: /
 
   - title: About
