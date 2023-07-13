@@ -36,3 +36,6 @@ Now that it has been clarified who wrote when, it remains unclear what was writt
 
 ![word cloud](https://raw.githubusercontent.com/itspepps/itspepps.github.io/main/assets/image/wortwolke01.png)
 
+In the next step, a meaningful list of stopwords should definitely be included. This should be checked so that no project-relevant words are filtered out. Various methods can then be used with Voyant Tool. I was interested in topic modeling, to see in which contexts certain keywords appear and which topics appear more frequently in the articles. This can be used to examine whether the topics have changed over the years and how many articles are devoted to which topic. It requires sufficient time to use this method extensively to benefit from it. Unfortunately, my analysis was not deep enough.
+
+![word cloud](https://raw.githubusercontent.com/itspepps/itspepps.github.io/main/assets/image/topic01.png)
