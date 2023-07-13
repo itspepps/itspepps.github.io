@@ -15,12 +15,15 @@ I was already familiar with the website evangelisch.de and its queer blog 'kreuz
 
 ![Overview of authors and number of articles per year](https://raw.githubusercontent.com/itspepps/itspepps.github.io/main/assets/image/palladio01.png)
 Overview of authors and number of articles per year.
+<br/><br/>
 
 ![Data only from Rainer Hörmann](https://raw.githubusercontent.com/itspepps/itspepps.github.io/main/assets/image/palladio02.png)
 Data only from Rainer Hörmann.
+<br/><br/>
 
 ![Cluster view of articles per year](https://raw.githubusercontent.com/itspepps/itspepps.github.io/main/assets/image/palladio03.png)
 Cluster view of articles per year.
+<br/><br/>
 
 ![Cluster view of articles per month](https://raw.githubusercontent.com/itspepps/itspepps.github.io/main/assets/image/palladio05.png)
 Cluster view of articles per month.
