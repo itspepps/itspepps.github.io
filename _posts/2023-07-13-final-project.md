@@ -30,3 +30,9 @@ Cluster view of articles per month.
 
 #### Palladio results
 Although a decrease in articles can be determined numerically, a density of regular articles remains. Also, we can see who writes the most articles and even in which years they are most actively involved. It can also be seen that around 2018 the annual posts are already between 40-50 and that there are slightly more articles in the first half of a year.
+
+#### Start of content analysis
+Now that it has been clarified who wrote when, it remains unclear what was written. The Voyant tool can be used for this analysis. After I uploaded the article texts there, I was greeted directly by a word cloud that showed me which words occur most frequently: people, church, life, God, queer.
+
+![word cloud](https://raw.githubusercontent.com/itspepps/itspepps.github.io/main/assets/image/wortwolke01.png)
+
