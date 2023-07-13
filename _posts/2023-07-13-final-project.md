@@ -3,6 +3,9 @@ layout: post
 title: Final Project
 categories: [content, progress]
 ---
+
+#### Was habe ich nun also gelernt?
+
 In our further work with OpenRefine we adressed geocoding. 
 <!--more-->
 ooooo
