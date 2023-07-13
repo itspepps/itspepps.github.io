@@ -13,4 +13,17 @@ There have been noticeable changes in how Christian religiosity deals with queer
 
 I was already familiar with the website evangelisch.de and its queer blog 'kreuz und queer' from the context of another work. Using web scraping I wanted to extract the articles. The collected data can then be examined and processed using various tools. The first thing I wanted to know was how many articles there are and what years they are from. This could be used to determine whether the number of articles has increased or decreased. I then also extracted the authors and now knew how many people actually write for the blog. I then had the idea of adding a month-only column to my spreadsheet to check if there were more entries at certain times than at others. For this analyses I used Palladio.
 
-![screenshot of the command window to generate an url for automation of geodata collection](https://raw.githubusercontent.com/itspepps/itspepps.github.io/main/assets/image/Screenshot_15.png)
+![alttext](https://raw.githubusercontent.com/itspepps/itspepps.github.io/main/assets/image/palladio01.png)
+Overview of authors and number of articles per year.
+
+![alttext](https://raw.githubusercontent.com/itspepps/itspepps.github.io/main/assets/image/palladio02.png)
+Data only from Rainer Hörmann.
+
+![alttext](https://raw.githubusercontent.com/itspepps/itspepps.github.io/main/assets/image/palladio03.png)
+Cluster view of articles per year.
+
+![alttext](https://raw.githubusercontent.com/itspepps/itspepps.github.io/main/assets/image/palladio05.png)
+Cluster view of articles per month.
+
+#### Palladio results
+Although a decrease in articles can be determined numerically, a density of regular articles remains. Also, we can see who writes the most articles and even in which years they are most actively involved. It can also be seen that around 2018 the annual posts are already between 40-50 and that there are slightly more articles in the first half of a year.
